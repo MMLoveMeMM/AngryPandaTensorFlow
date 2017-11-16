@@ -5,6 +5,10 @@ Created on Wed Nov 15 19:30:02 2017
 @author: rd0348
 """
 
+"""
+OpenCV Code for FFT and DFT
+"""
+
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
